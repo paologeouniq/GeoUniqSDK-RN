@@ -1,7 +1,7 @@
 
 {
-  "name": "react-native-geouniq",
-  "version": "1.0.0",
+  "name": "RNGeouniq",
+  "version": "1.6.1",
   "description": "",
   "main": "index.js",
   "scripts": {
