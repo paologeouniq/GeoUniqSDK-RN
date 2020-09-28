@@ -1,7 +1,6 @@
-
 {
   "name": "react-native-geouniq-beta2",
-  "version": "1.6.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +11,11 @@
   ],
   "author": "",
   "license": "",
-  "peerDependencies": {
+  "devDependencies": {
     "react-native": "^0.41.2"
+  },
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
   }
 }

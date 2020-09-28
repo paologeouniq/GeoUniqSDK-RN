@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { RNGeouniq } = NativeModules;
+const { RNGeouniqBeta2 } = NativeModules;
 
-export default RNGeouniq;
+export default RNGeouniqBeta2;
