@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNGeouniqBeta2"
-  s.version      = "1.6.2"
+  s.version      = '1.6.2'
   s.summary      = "RNGeouniqBeta2"
   s.description  = "the beta of geouniq SDK"
   s.homepage     = ""
