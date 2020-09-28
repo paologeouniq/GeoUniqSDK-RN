@@ -1,10 +1,10 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNGeouniqTest"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "RNGeouniqTest"
   s.description  = "descrizione test"
-  s.homepage     = ""
+  s.homepage     = "www.geouniq.com"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "paolo.donato@geouniq.com" }
