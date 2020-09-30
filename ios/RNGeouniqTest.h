@@ -1,7 +1,11 @@
+
+#if __has_include("RCTBridgeModule.h")
+#import "RCTBridgeModule.h"
+#else
 #import <React/RCTBridgeModule.h>
+#endif
 
-@import GeoUniq;
-
-@interface RNGeoUniqTest : NSObject <RCTBridgeModule>
+@interface RNGeouniqTest : NSObject <RCTBridgeModule>
 
 @end
+  

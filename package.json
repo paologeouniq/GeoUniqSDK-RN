@@ -1,40 +1,20 @@
+
 {
-  "name": "react-native-geo-uniq-test2",
-  "title": "React Native Geo Uniq Test",
+  "name": "react-native-geouniq-test",
   "version": "1.0.0",
-  "description": "Geouniq frameowork test",
+  "description": "",
   "main": "index.js",
-  "files": [
-    "README.md",
-    "android",
-    "index.js",
-    "ios",
-    "react-native-geo-uniq-test.podspec"
-  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/paologeouniq/GeoUniqSDK-RN.git",
-    "baseUrl": "https://github.com/github_account/react-native-geo-uniq-test"
   },
   "keywords": [
     "react-native"
   ],
-  "author": {
-    "name": "Paolo Donato",
-    "email": "paolo.donato@geouniq.com"
-  },
-  "license": "MIT",
-  "licenseFilename": "LICENSE",
-  "readmeFilename": "README.md",
+  "author": "",
+  "license": "",
   "peerDependencies": {
-    "react": "^16.8.1",
-    "react-native": ">=0.60.0-rc.0 <1.0.x"
-  },
-  "devDependencies": {
-    "react": "^16.9.0",
-    "react-native": "^0.61.5"
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+
   }
 }
